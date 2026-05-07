@@ -25,5 +25,5 @@ Juego educativo sobre *ciberseguridad* desarrollado en Java con interfaz gráfic
 Abrir el proyecto en NetBeans o ejecutar la clase principal `GameLauncher.java`.
 
 ## Autor
--Jose Guzman
--Luis Meza
+- Jose Guzman
+- Luis Meza
