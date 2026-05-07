@@ -26,4 +26,4 @@ Abrir el proyecto en NetBeans o ejecutar la clase principal `GameLauncher.java`.
 
 ## Autor
 - Jose Guzman
-- Luis Meza
+- Jesus Meza
