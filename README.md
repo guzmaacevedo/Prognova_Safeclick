@@ -1,29 +1,29 @@
 # Prognova SafeClick
 
-Juego educativo sobre *ciberseguridad* desarrollado en Java con interfaz gráfica
+Educational cybersecurity game developed in Java with a graphical user interface.
 
-## Características
-- Laberinto interactivo
-- Sistema de preguntas
-- Movimiento con teclado
-- Interfaz gráfica
-- Sprites e imágenes personalizadas
-- Programación orientada a objetos
+## Features
+- Interactive maze
+- Question system
+- Keyboard controls
+- Graphical user interface
+- Custom sprites and images
+- Object-oriented programming
 
-## Tecnologías usadas
+## Technologies used
 - Java
 - Swing/AWT
 - NetBeans
 
-## Estructura del proyecto
-- Frontend gráfico
-- Control de teclado
-- Sistema de preguntas
-- Lógica del juego
+## Project structure
+- Graphical frontend
+- Keyboard control
+- Question system
+- Game logic
 
-## Cómo ejecutar
-Abrir el proyecto en NetBeans o ejecutar la clase principal `GameLauncher.java`.
+## How to run
+Open the project in NetBeans or run the main class `GameLauncher.java`.
 
-## Autor
-- Jose Guzman
-- Jesus Meza
+## Author
+- Jose Guzman - guzmaacevedo@gmail.com
+- Jesus Meza - jesusmezaacosta12@gmail.com
