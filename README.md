@@ -3,27 +3,27 @@
 Educational cybersecurity game developed in Java with a graphical user interface.
 
 ## Features
-- Interactive maze
-- Question system
-- Keyboard controls
-- Graphical user interface
-- Custom sprites and images
-- Object-oriented programming
+- Interactive maze gameplay  
+- Question-based challenge system  
+- Keyboard controls  
+- Graphical user interface  
+- Custom sprites and images  
+- Object-oriented programming design  
 
-## Technologies used
-- Java
-- Swing/AWT
-- NetBeans
+## Technologies Used
+- Java  
+- Swing / AWT  
+- NetBeans  
 
-## Project structure
-- Graphical frontend
-- Keyboard control
-- Question system
-- Game logic
+## Project Structure
+- Graphical interface (UI)  
+- Keyboard input handling  
+- Question system logic  
+- Core game mechanics  
 
-## How to run
-Open the project in NetBeans or run the main class `GameLauncher.java`.
+## How to Run
+Open the project in NetBeans and run the main class: `GameLauncher.java`.
 
-## Author
-- Jose Guzman - guzmaacevedo@gmail.com
-- Jesus Meza - jesusmezaacosta12@gmail.com
+## Authors
+- Jose Guzman (guzmaacevedo@gmail.com)  
+- Jesus Meza (jesusmezaacosta12@gmail.com)  
