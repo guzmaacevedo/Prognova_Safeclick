@@ -1,9 +1,29 @@
-SafeClick 
+# Prognova SafeClick
 
-Juego educativo sobre ciberseguridad 
+Juego educativo sobre *ciberseguridad* desarrollado en Java con interfaz gráfica
 
-Equipo Prognova: 
+## Características
+- Laberinto interactivo
+- Sistema de preguntas
+- Movimiento con teclado
+- Interfaz gráfica
+- Sprites e imágenes personalizadas
+- Programación orientada a objetos
 
-Jose Guzman 
+## Tecnologías usadas
+- Java
+- Swing/AWT
+- NetBeans
 
-Jesus Meza  
+## Estructura del proyecto
+- Frontend gráfico
+- Control de teclado
+- Sistema de preguntas
+- Lógica del juego
+
+## Cómo ejecutar
+Abrir el proyecto en NetBeans o ejecutar la clase principal `GameLauncher.java`.
+
+## Autor
+-Jose Guzman
+-Luis Meza
